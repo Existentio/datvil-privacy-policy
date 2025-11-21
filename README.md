@@ -1,4 +1,3 @@
-# datvil-privacy-policy
 # Datvil – Privacy Policy
 
 This privacy policy applies to the **Datvil** mobile application (hereby referred to as the **"Application"**) for mobile devices that was created by **Georgii Tselkovskii** (hereby referred to as the **"Service Provider"**) as a free service. This service is intended for use **“AS IS”**.
