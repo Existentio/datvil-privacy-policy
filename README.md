@@ -23,8 +23,13 @@ You may also provide personally identifiable information directly within the App
 - Information about your interactions in the app (likes, matches, messages, and other social activity)
 
 This information is used to operate the Application and provide its core dating and social features, such as showing you other users, enabling chat, and helping you find people in or near your selected city.
+Photos that you upload for dream-type image search or compatibility matching may be processed using artificial intelligence technologies to enable image-based search and recommendation features.
+
+In order to provide image search and AI-based matching functionality, certain user-provided content (including uploaded photos and related matching preferences) may be securely transmitted to third-party service providers for processing.
 
 ---
+
+
 
 ## Location and Geolocation Data
 
@@ -57,14 +62,17 @@ The Service Provider may use the information you provide, and the information au
 - Monitoring and analyzing usage, performance, and technical issues
 - Detecting, preventing, and addressing technical problems, fraud, or abusive behavior
 - Contacting you from time to time with important information, required notices, and marketing promotions (where permitted by applicable law)
+- Performing AI-based image analysis and compatibility matching, including dream-type image search features
+
 
 For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information that the Service Provider requests will be retained and used as described in this privacy policy.
+
 
 ---
 
 ## Third-Party Access
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways described in this privacy statement.
+Certain user-provided content may be transmitted to trusted third-party service providers as described in this policy in order to operate and provide Application functionality.
 
 The Application may utilize third-party services that have their own Privacy Policy about handling data. Examples include (but are not limited to):
 
@@ -77,6 +85,9 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 - As required by law, such as to comply with a subpoena or similar legal process
 - When they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
 - With trusted service providers who work on their behalf, do not have an independent use of the information disclosed to them, and have agreed to adhere to the rules set forth in this privacy statement
+- OpenAI (for AI-based image analysis and dream-type image search functionality)
+
+When you choose to use image search or AI-based matching features, uploaded photos may be securely transmitted to OpenAI via its API for analysis. This processing is performed solely to provide application functionality. User data is not sold and is not used for advertising purposes. Data processed via the OpenAI API is handled in accordance with OpenAI’s API data usage policies and is not used to train public AI models.
 
 ---
 
@@ -118,8 +129,7 @@ This Privacy Policy may be updated from time to time for any reason. The Service
 
 You are advised to review this Privacy Policy periodically for any changes, as continued use of the Application is deemed approval of all changes.
 
-**Effective date:** 2025-11-21
-
+**Effective date:** 2026-02-19
 ---
 
 ## Your Consent
